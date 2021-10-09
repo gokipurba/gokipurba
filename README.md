@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokipurba
 - 👀 I’m interested in Stock Market, Python, EM, CodeTeory, 5G(NR)
-- 🌱 I’m currently learning Python for Big Data 
+- 🌱 I’m currently learning Python for Big Data, 5G (NR)
 - 📫 How to reach me [Goki Purba](https://www.linkedin.com/in/goki-purba/)
 
 <!---
